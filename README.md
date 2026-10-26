@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Suvidha4C Voice Assist (सुविधा 4C व्हॉइस असिस्ट)
 
 [![React](https://img.shields.io/badge/React-19-blue.svg)](https://react.dev)
@@ -184,3 +185,7 @@ d:/Suvidha4C-VoiceAssist/
 - **No Paid APIs or Harvesting:** The application does not collect real Aadhaar, PAN, or banking details. All demo tokens and submitted requests are stored strictly in the user's browser `localStorage`.
 - **Official Portals:** Information provided is illustrative. Actual legal certificate issuances, government fees, and statutory rules are governed by the respective State and Central Government authorities through official portals such as [Aaple Sarkar MahaOnline](https://aaplesarkar.mahaonline.gov.in), [ServicePlus](https://serviceonline.gov.in), and [India.gov.in](https://services.india.gov.in).
 - **Web Speech API Compatibility:** Voice recognition and text-to-speech features depend on the host browser's implementation of the standard Web Speech API (supported in Google Chrome, Microsoft Edge, and modern Chromium-based browsers). A text search fallback is provided for non-supporting browsers.
+=======
+# Suvidha4C-VoiceAssist
+A voice-built civic-tech platform helping Indian citizens discover public services, understand document requirements, find service providers, and track demo requests.
+>>>>>>> cbbe500e1aba7274eadfd3a757a25556538f6a3f
